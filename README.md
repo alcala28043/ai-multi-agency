@@ -1,3 +1,5 @@
+![Raccoon Dev Team](./ai-multy-agency.png)
+
 # 🧠 ai‑multi‑agency  
 ### Don’t settle for a single agent when you can have an entire agency.
 
